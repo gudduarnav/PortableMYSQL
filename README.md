@@ -19,4 +19,7 @@
 3. Initialize the database by clicking on one of `Reset` button. I prefer `Reset Insecure` button, as it does not require any password for `root`.  
 4. Start the server by clicking on `Start` button.  
 5. Then the Server is ready for use. Configure the MYSQL client to connect on the `Host` IP and `Port` specified on the GUI.  
-6. 
+6. Stop the Server by clicking `Stop` button.
+  
+### Working with the ZIP Archive  
+1. 
