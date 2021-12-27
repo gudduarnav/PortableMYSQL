@@ -22,4 +22,11 @@
 6. Stop the Server by clicking `Stop` button.
   
 ### Working with the ZIP Archive  
-1. 
+1. Download all the ZIP file from `ZIPArchive\*.zip` files.  
+2. UnZIP the files to a folder.  
+3. Open the folder and run the batch file `start.bat`.  
+4. The server can directly be started without initialization. Its already initialized with the database. It also have Debug Information present in it.  
+  
+* In case of any problem, kindly send mail to *gudduarnav* at gmail dot com.  
+  
+#mysql #mysqlportable #database #usbdatabase #server #usbserver
