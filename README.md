@@ -5,7 +5,9 @@
   
 ### Pre-requisite  
 1. Python must be installed.  
-2. Check the PortableMYSQL/requirements.txt file. The requirements must be installed or try the command `pip install -r requirements.txt`. 
+2. Check the `PortableMYSQL/requirements.txt` file. The requirements must be installed or try the command `pip install -r requirements.txt`.  
+3. Once the installation is complete, then the program can be used.  
+*NOTE: This program only support Microsoft-Windows platform only.* 
   
 ### How to use?
 1. You can download the whole repo to one folder.  
