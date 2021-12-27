@@ -14,5 +14,9 @@
 2. There are 2 subfolders: *PortableMYSQL* and *README*.  
   
 ### Working with PortableMYSQL folder  
-  
-1. Python must be installed and che
+1. Python must be installed and the requirements must be satisfied.  
+2. Double click on the `start.bat`. This will bring up a GUI.
+3. Initialize the database by clicking on one of `Reset` button. I prefer `Reset Insecure` button, as it does not require any password for `root`.  
+4. Start the server by clicking on `Start` button.  
+5. Then the Server is ready for use. Configure the MYSQL client to connect on the `Host` IP and `Port` specified on the GUI.  
+6. 
